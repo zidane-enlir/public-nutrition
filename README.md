@@ -1,6 +1,10 @@
 ## LINE Bot
 
-<img src="https://github.com/zidane-enlir/nutrition/raw/master/image_readme.png">
+<img src="https://github.com/zidane-enlir/public-nutrition/raw/master/image_readme02.png">
+
+<br>
+
+<img src="https://github.com/zidane-enlir/public-nutrition/raw/master/image_readme.png">
 
 <br>
 <br>
